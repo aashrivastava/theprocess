@@ -1,5 +1,4 @@
 import turtle
-import time
 
 t = turtle.Turtle()
 t.hideturtle()
@@ -41,5 +40,3 @@ for i in range(4):
     t.right(90)
     t2.forward(10)
     t2.right(90)
-
-time.sleep(5)
