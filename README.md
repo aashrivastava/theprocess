@@ -1,9 +1,7 @@
-https://github.com/aashrivastava/theprocess/assets/114686168/c53566d8-5271-4410-b67b-7a9a382ee8da
+![naivety](https://github.com/aashrivastava/theprocess/assets/114686168/27d8d432-3842-4053-ab73-759fd9ace79c)
 
-https://github.com/aashrivastava/theprocess/assets/114686168/71e7fdc7-2e00-4cfc-a451-ca20ad7666d7
+![growth](https://github.com/aashrivastava/theprocess/assets/114686168/4de86481-bd4f-426d-92e3-6909f1b1b9e9)
 
-https://github.com/aashrivastava/theprocess/assets/114686168/8882e201-285c-453e-ad0f-c44bdd82477c
+![maturity](https://github.com/aashrivastava/theprocess/assets/114686168/5eb9a418-5418-49f2-b73d-9dd80fd1071b)
 
-
-
-
+![evolution](https://github.com/aashrivastava/theprocess/assets/114686168/30d453e3-c4d0-459e-8221-2279e4ed0dff)
